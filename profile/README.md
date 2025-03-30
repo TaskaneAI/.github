@@ -2,6 +2,6 @@
 
 **Welcome to Taskane AI's official organisation.**
 
-![Takane Banner](./Taskane%20Banner.png)
+![Takane Banner](./banner.png)
 
 We're an organisation dealing with creating AI-first SaaS tools/platforms.
